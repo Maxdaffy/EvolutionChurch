@@ -51,6 +51,7 @@
     <Compile Include="EvolutionChruch\settings.py" />
     <Compile Include="EvolutionChruch\urls.py" />
     <Compile Include="EvolutionChruch\wsgi.py" />
+    <Compile Include="wfastcgi.py" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="login.html" />
