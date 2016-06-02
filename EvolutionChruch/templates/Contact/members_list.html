@@ -1,0 +1,17 @@
+﻿{% extends "layout.html" %}
+
+ {% block title %} Iglesia Fuente Inagotable {% endblock %}
+
+ {% block heading %} Listado de Miembros Activos{% endblock %}
+
+ {% block content %}
+    <ul class="list-unstyled">
+        {% for person in Person %}
+            <li class="well well-sm">
+                {% include "Members/member.html" %}
+            </li>
+        {% empty %}
+            <li> Mo Existen Miembros</li>
+    </ul>
+
+ {% endblock %}

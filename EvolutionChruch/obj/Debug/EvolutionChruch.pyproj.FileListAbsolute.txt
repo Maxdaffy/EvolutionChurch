@@ -1,0 +1,15 @@
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\bin\Microsoft.PythonTools.WebRole.dll
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\attach_server.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\visualstudio_py_debugger.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\visualstudio_py_repl.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\visualstudio_py_util.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\__init__.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\__main__.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\bin\AzureSetup.cfg
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\bin\Microsoft.PythonTools.AzureSetup.exe
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\bin\Microsoft.PythonTools.AzureSetup.exe.config
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\bin\wfastcgi.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\deployment-updated-pyvenv.cfg
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\ptvs_virtualenv_proxy.py
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\web.config
+C:\inetpub\wwwroot\EvolutionChruch\EvolutionChruch\obj\Debug\web.debug.config
